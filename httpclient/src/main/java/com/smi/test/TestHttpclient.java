@@ -1,4 +1,4 @@
-package com.smi;
+package com.smi.test;
 
 import java.util.HashMap;
 import java.util.Map;
